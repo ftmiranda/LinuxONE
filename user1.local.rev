@@ -11,6 +11,9 @@ $TTL 86400
 user1bastion.user1.local. IN A <ip_address_bastion>
 
 179 IN PTR user1bastion.user1.local.
+179 IN PTR api.kvm1.user1.local.
+179 IN PTR api-int.kvm1.user1.local.
+
 
 180 IN PTR boostrap.kvm1.user1.local.
 181 IN PTR master1.kvm1.user1.local.
