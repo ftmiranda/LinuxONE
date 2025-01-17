@@ -23,3 +23,4 @@ user1bastion.user1.local. IN A <ip_address_bastion>
 185 IN PTR worker2.kvm1.user1.local.
 186 IN PTR worker3.kvm1.user1.local.
 
+test
